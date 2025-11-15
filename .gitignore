@@ -29,4 +29,7 @@ obj/
 
 # Sensitive config
 pooltracker-web/.env
+!pooltracker-web/.env.example
+
 PoolTracker.API/appsettings.json
+!PoolTracker.API/appsettings.json.example
